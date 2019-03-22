@@ -1,0 +1,18 @@
+{
+  "legos": [
+    {
+      "creator": "Clif",
+      "color": "purple",
+      "shape": "sphere",
+      "creation": "table",
+      "id": 1
+    },
+    {
+      "creator": "God",
+      "color": "All",
+      "shape": "Sphere",
+      "creation": "Earth",
+      "id": 2
+    }
+  ]
+}
